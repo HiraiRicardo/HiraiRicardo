@@ -7,6 +7,3 @@
 - I've worked in some brazilian companies such as Linde, Ultragaz, IBG, Nacional Gas and Messer. 
 - I've worked with industrial processes, industrial instalation and production.
 - I've knowledge in Minitab, Python, R, SQL, Excel and Power BI.
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
